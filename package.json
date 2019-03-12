@@ -5,9 +5,13 @@
   "dependencies": {
     "grommet": "^2.5.5",
     "grommet-icons": "^4.2.0",
+    "inkjs": "^1.9.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-redux": "^5.1.1",
     "react-scripts": "2.1.8",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.8",
     "styled-components": "^4.1.3"
   },
   "scripts": {
